@@ -1,3 +1,15 @@
+$(Document).ready(function(){
+    $("#btn1").click(function(){
+        $("img").hide();
+    });
+    $("#btn2").click(function(){
+        $("img").show();
+    });
+    $("#btn1").dblclick(function(){
+        $("img").show();
+    });
+});
+
 var name="Stephen";
 var age=21;
 console.log(name);
