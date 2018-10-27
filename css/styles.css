@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+
+h3{
+color: lime;
+}
+
+p{
+font-weight: bolder;
+font-style: italic;
+}
+
+.hobbies{
+    background-color: aqua;
+}
+
+/* #aspirations{
+    background-color: brown;
+} */
